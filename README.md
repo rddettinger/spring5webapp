@@ -54,3 +54,10 @@ Got a question about your Spring Framework 5 course? [Checkout these FAQs!](http
 * Like Spring Framework Guru on [Facebook](https://www.facebook.com/springframeworkguru/)
 * Follow Spring Framework Guru on [Twitter](https://twitter.com/spring_guru)
 * Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
+
+
+## Notes for local execution.
+* Accessing the H2 console: http://localhost:8080/h2/login.do
+* Accessing the application: http://localhost:8080/authors
+* Github [project](https://github.com/rddettinger/spring5webapp)
+
